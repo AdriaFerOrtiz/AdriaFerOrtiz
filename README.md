@@ -1,7 +1,7 @@
 ## Hola, soy Adrià 👋
 
 # 💫 About Me:
-🎓 Estudiante de Ingeniería Informática en la Universitat Autònoma de Barcelona (UAB).<br><br>💻 Especializado en Computación e Inteligencia Artificial.<br><br>📊 Apasionado por el análisis de datos y su aplicación práctica en la resolución de problemas.<br><br>🎮 Entusiasta del desarrollo y diseño de videojuegos.<br><br>🚀 Siempre en busca de nuevos retos y oportunidades para aprender y mejorar mis habilidades técnicas.<br><br>📚 Interesado en proyectos que combinan tecnología, creatividad e impacto real.<br><br>
+🎓 Graduado de Ingeniería Informática en la Universitat Autònoma de Barcelona (UAB).<br><br>💻 Especializado en Computación e Inteligencia Artificial.<br><br>📊 Apasionado por el análisis de datos y su aplicación práctica en la resolución de problemas.<br><br>🎮 Entusiasta del desarrollo y diseño de videojuegos.<br><br>🚀 Siempre en busca de nuevos retos y oportunidades para aprender y mejorar mis habilidades técnicas.<br><br>📚 Interesado en proyectos que combinan tecnología, creatividad e impacto real.<br><br>
 
 
 ## 🌐 Socials:
